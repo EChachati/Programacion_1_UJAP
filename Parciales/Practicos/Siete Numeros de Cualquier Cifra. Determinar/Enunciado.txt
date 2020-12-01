@@ -1,0 +1,12 @@
+"""2.- Se Pedirán  7 números de cualquier  cifra,  Pueden usar Lista
+para los números de cualquier cifra
+ejemplo: Lista= [12354, 856, 2, 36520, 457……….] usen otros números.
+Determinar
+1.	SI EL NUMERO ES PRIMO Y EL NUMERO PRIMO MAYOR
+2.	SUMA DE LOS NUMEROS PRIMOS
+3.	PROPORCION DE DIGITOS IGUAL A 2
+4.	PROMEDIOS DE LA SUMA DE TODOS LOS DIGITOS
+5.	MAYOR DIGITO PAR
+6.	MENOR DIGITO IMPAR
+7.	PROPORCION DE DIGITOS PRIMOS.
+"""

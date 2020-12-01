@@ -1,0 +1,13 @@
+Juan,M,10,12,13
+Maria,F,6,7,12
+Jose,M,16,17,18
+Nora,F,18,16,17
+Frank,M,8,15,10
+Rosa,F,19,18,20
+Rita,F,3,5,10
+Roberto,M,5,16,10
+Gonzalo,M,10,10,11
+Alirio,M,5,9,10
+Margarita,F,10,9,4
+Luis,M,15,12,10
+Oswaldo,M,13,16,14

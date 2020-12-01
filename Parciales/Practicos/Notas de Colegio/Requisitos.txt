@@ -1,0 +1,8 @@
+""" Program have to
+ 1 -> Read File
+ 2 -> For each: Average Note, and if approved or reproved
+ 3 -> For all:
+        => Porcentage of female aproved
+        => Average reproved students
+        => Name of the highest note
+ """

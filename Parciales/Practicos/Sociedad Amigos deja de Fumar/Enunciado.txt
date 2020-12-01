@@ -1,0 +1,25 @@
+Elabore el análisis del problema y un programa en lenguaje Python que de respuesta al planteamiento
+que a continuación se indica:
+
+La sociedad de Amigos Deja  de Fumar en su preocupación por el alto índice de consumo de cigarrillo realizó una encuesta
+entre los fumadores.
+Para procesar los datos obtenidos lo contratan a usted para que desarrolle un programa para obtener datos estadísticos
+sobre el comportamiento de los fumadores. Los datos de la encuesta se suministran de la siguiente manera
+
+En el primer registro:
+
+    Cantidad de fumadores encuestados
+
+En los registros siguientes:
+
+Nombre del fumador, Género (F: femenino, M: masculino). Cantidad de cigarrillos consumidos al día
+
+Se requiere determinar y escribir lo siguiente:
+
+Los nombres de los fumadores en riesgo de contraer una enfermedad pulmonar.
+El porcentaje de fumadores en riesgo de contraer una enfermedad pulmonar.
+El género que consume más cigarrillos.
+La diferencia en la cantidad de cigarrillos consumidos con respecto al otro género.
+Consideraciones:
+
+Se considera que si una persona que fuma más de 5 cigarrillos al día es un fumadores en riesgo de contraer una enfermedad pulmonar.
